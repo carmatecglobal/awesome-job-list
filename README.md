@@ -90,6 +90,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 
 ## Ruby on Rails Jobs
 * RubyNow: https://jobs.rubynow.com/
+* RailsCarma: https://www.railscarma.com/careers/
 
 ## Wordpress
 * WP - https://jobs.wordpress.net/
